@@ -1,0 +1,16 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <HTMLCodeStyleSettings>
+      <option name="HTML_TEXT_WRAP" value="0" />
+    </HTMLCodeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <option name="WRAP_ON_TYPING" value="0" />
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <indentOptions>
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
